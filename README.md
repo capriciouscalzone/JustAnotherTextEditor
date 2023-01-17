@@ -1,1 +1,3 @@
-# Text Editor Starter Code
+# JATE
+
+## A simple browers based text editor 
